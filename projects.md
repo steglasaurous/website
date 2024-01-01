@@ -22,7 +22,7 @@ game.
 
 ## Universal Song Overlay
 ![](/assets/images/universal-song-overlay-screenshot-150.png){: .align-right}
-
+    
 A browser overlay for OBS that works with a number of VR rhythm games, showing information on the song being played, 
 album art, song progress, score and player health (where supported).
 
